@@ -1,5 +1,5 @@
 <h1 align="center">Hey guys, I'm Kandal Khandeka</h1>
-<h3 align="center">Not just a random mechanical engineer who drifted his career trajectory in the tech industry.</h3>
+<h3 align="center">Not just a random mechanical engineer who drifted his career trajectory towards the tech industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandal123&label=Profile%20views&color=0e75b6&style=flat" alt="kandal123" /> </p>
 
